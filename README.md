@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img  heigth = "180em" src="https://github-readme-stats.vercel.app/api?username=johannmarzolla&show_icons=true&theme=tokyonight"/>
-  <img heigth = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannmarzolla&layout=donut-vertical&theme=tokyonight"/>
+  <img  heigth = 180  align="center" src="https://github-readme-stats.vercel.app/api?username=johannmarzolla&show_icons=true&theme=tokyonight"/>
+  <img heigth = 180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannmarzolla&layout=donut-vertical&theme=tokyonight"/>
   
 </div>
