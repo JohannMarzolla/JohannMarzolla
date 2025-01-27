@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
-<a >
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johannmarzolla&theme=tokyonight" />
+<a>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannmarzolla&layout=compact&langs_count=8&card_width=420&theme=tokyonight" />
 </a>
-<a >
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannmarzolla&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-  
 </div>
 
