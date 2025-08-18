@@ -6,8 +6,8 @@
 ### 📫 Contato
 
 <p align="center">
-  ✉️ <a href="mailto:seuemail@email.com">seuemail@email.com</a> • 
-  💼 <a href="https://linkedin.com/in/seuusuario" target="_blank">LinkedIn</a>
+  ✉️ <a href="mailto:johanngoes@hotmail.com">johanngoes@hotmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">LinkedIn</a>
 </p>
 
 ---
@@ -21,13 +21,3 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
 </p>
-
----
-
-### 📈 Estatísticas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="Estatísticas GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
-
