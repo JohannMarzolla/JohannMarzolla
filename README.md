@@ -1,23 +1,38 @@
-<h1 align="center">Olá! 👋 Me chamo Johann Marzolla</h1>
-<p align="center">💻 Desenvolvedor Full Stack</p>
+<div align="center">
+  <h2> Seja bem-vindo ao meu GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  <a href="https://www.linkedin.com/in/johann-marzolla-b4423b272" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-### 📫 Contato
+<div align="center">
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
-<p align="center">
-  ✉️ <a href="mailto:johanngoes@hotmail.com">johanngoes@hotmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">LinkedIn</a>
-</p>
+<div align="center"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
 ---
 
-### 🛠️ Tecnologias que uso
+## 🚧 Projetos em destaque
 
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-</p>
+| Tipo      | Título / Descrição                                                                                           | Link |
+|-----------|--------------------------------------------------------------------------------------------------------------|------|
+| Projeto   | **Sistema de Vendas** – Front-End com controle de estoque, integração com Firestore e validação em tempo real | [📦 GitHub](https://github.com/seu-usuario/sistema-de-vendas) |
+| Projeto   | **App de Produção Agrícola** – CRUD completo com insumos, status, colheita e fluxo de formulário inteligente  | [📦 GitHub](https://github.com/seu-usuario/producao-agricola) |
+
+<div align="center">
+  <strong>Obrigado por visitar meu perfil! 🚀</strong>  
+</div>
