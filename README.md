@@ -10,8 +10,6 @@
 <div align="center">
   <a href="https://github.com/JohannMarzolla">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannMarzolla&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohannMarzolla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
   </a>
 </div>
 
@@ -20,20 +18,9 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
----
 
-## 🚧 Projetos em destaque
 
-| Tipo      | Título / Descrição                                                                                           | Link |
-|-----------|--------------------------------------------------------------------------------------------------------------|------|
-| Projeto   | **Sistema de Vendas** – Front-End com controle de estoque, integração com Firestore e validação em tempo real | [📦 GitHub](https://github.com/seu-usuario/sistema-de-vendas) |
-| Projeto   | **App de Produção Agrícola** – CRUD completo com insumos, status, colheita e fluxo de formulário inteligente  | [📦 GitHub](https://github.com/seu-usuario/producao-agricola) |
-
-<div align="center">
-  <strong>Obrigado por visitar meu perfil! 🚀</strong>  
-</div>
